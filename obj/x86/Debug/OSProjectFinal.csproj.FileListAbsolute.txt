@@ -1,0 +1,9 @@
+C:\Users\Be The Change\documents\visual studio 2010\Projects\OSProject\OSProjectFinal\bin\Debug\OSProjectFinal.exe
+C:\Users\Be The Change\documents\visual studio 2010\Projects\OSProject\OSProjectFinal\bin\Debug\OSProjectFinal.pdb
+C:\Users\Be The Change\documents\visual studio 2010\Projects\OSProject\OSProjectFinal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Be The Change\documents\visual studio 2010\Projects\OSProject\OSProjectFinal\obj\x86\Debug\OSProjectFinal.Form1.resources
+C:\Users\Be The Change\documents\visual studio 2010\Projects\OSProject\OSProjectFinal\obj\x86\Debug\OSProjectFinal.Properties.Resources.resources
+C:\Users\Be The Change\documents\visual studio 2010\Projects\OSProject\OSProjectFinal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Be The Change\documents\visual studio 2010\Projects\OSProject\OSProjectFinal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Be The Change\documents\visual studio 2010\Projects\OSProject\OSProjectFinal\obj\x86\Debug\OSProjectFinal.exe
+C:\Users\Be The Change\documents\visual studio 2010\Projects\OSProject\OSProjectFinal\obj\x86\Debug\OSProjectFinal.pdb
